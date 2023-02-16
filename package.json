@@ -1,0 +1,20 @@
+{
+  "name": "automatedtestingjs",
+  "version": "1.0.0",
+  "description": "\"Intro to Automated Testing with JavaScript\"  training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sylwia-Lewera/AutomatedTestingJS.git"
+  },
+  "keywords": [],
+  "author": "Sylwia_Lewera@epam.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sylwia-Lewera/AutomatedTestingJS/issues"
+  },
+  "homepage": "https://github.com/Sylwia-Lewera/AutomatedTestingJS#readme"
+}
