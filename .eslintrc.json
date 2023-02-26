@@ -11,5 +11,17 @@
         "sourceType": "module"
     },
     "rules": {
+        "max-len": [
+            "error",
+            {
+              "code": 250,
+              "tabWidth": 2,
+              "ignoreComments": true, //"comments": 80
+              "ignoreUrls": true,
+              "ignoreStrings": true,
+              "ignoreTemplateLiterals": true
+            }
+          ],
+          "require-jsdoc" : 0
     }
 }
